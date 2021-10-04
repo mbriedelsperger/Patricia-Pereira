@@ -32,6 +32,7 @@
     background: var(--secondary-color);
     text-align: center;
     padding: 19vh 2vh;
+    margin-bottom: 10%;
   }
   
   .hero p {
