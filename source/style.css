@@ -1,0 +1,55 @@
+
+
+.intro {
+    text-align: center;
+    background-color:#F9F7FE;
+    padding: 10%;
+    max-height: 900px;
+
+}
+
+.bold {
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 4vh;
+}
+
+h1 {
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+}
+
+p {
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+}
+
+.name {
+font-size: 12vh;
+}
+
+.btn {
+    width: 200px;
+    height: 63px;
+    background: #6C63FF;
+    border-radius: 4px;
+    color: white; 
+    margin-top: 3%;
+} 
+
+.intro p {
+    font-size: 3vh;
+}
+
+    .yogurt {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.image,
+.definition {;
+}
+
