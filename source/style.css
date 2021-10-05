@@ -105,12 +105,14 @@
   .work-inquiry {
       width: 100%;
       background-color: var(--secondary-color);
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
   }
 
   .work-inquiry.h3 {
       font-size: 6vh;
   }
-  
   
 
 
