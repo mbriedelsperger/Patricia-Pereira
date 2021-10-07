@@ -113,6 +113,23 @@
   .work-inquiry.h3 {
       font-size: 6vh;
   }
+
+  .about-section {
+    margin: 10% 0;
+    text-align: center;
+  }
+
+  .about-section h1 {
+    font-size: 8vh;
+  }
+
+  .about-section h2 {
+    font-size: 3vh;
+    font-family: var(--default-font-family);
+  }
   
+  .about-section img {
+    border-radius: 10%;
+  }
 
 
