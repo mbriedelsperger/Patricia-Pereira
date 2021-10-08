@@ -115,7 +115,7 @@
   }
 
   .about-section {
-    margin: 10% 0;
+    margin: 10% auto;
     text-align: center;
   }
 
@@ -130,6 +130,17 @@
   
   .about-section img {
     border-radius: 10%;
+  }
+
+  .work h1 {
+    margin-bottom: 10%;
+  }
+
+  .work h3 {
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 3vh;
   }
 
 
