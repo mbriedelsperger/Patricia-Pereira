@@ -143,4 +143,10 @@ font-weight: bold;
 font-size: 3vh;
   }
 
+.container-contact {
+  text-align: center;
+}
 
+.container-contact h1 {
+  margin-top: 10%;
+}
