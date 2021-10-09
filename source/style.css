@@ -98,7 +98,11 @@
     text-decoration: underline;
   }
 
-  .navbar-light .navbar-nav .nav-link.active {
+  .navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+  .navbar-light .navbar-nav .nav-link:hover {
       color: var(--branding-color);
   }
 
@@ -149,4 +153,12 @@ font-size: 3vh;
 
 .container-contact h1 {
   margin-top: 10%;
+}
+
+.container-contact h3{
+  font-family: poppins;
+}
+
+.container-contact a {
+  color: var(--branding-color);
 }
