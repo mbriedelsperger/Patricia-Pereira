@@ -208,3 +208,7 @@ footer .social-links a:hover {
 footer .btn-branding {
   color: white;
 }
+
+.project a {
+  color: var(--branding-color);
+}
